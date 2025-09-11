@@ -350,13 +350,6 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Czas pracy Uczestnika/czki odbywającego/j staż będzie trwał 8 godzin na
-                                        dobę (40 godzin tygodniowo), w przypadku osoby z niepełnosprawnością (w
-                                        stopniu znacznym lub umiarkowanym) 7 godzin na dobę (35 godzin
-                                        tygodniowo), każdorazowo przez okres 3 miesięcy.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
                                         Program może obejmować np.: znajomość działania niektórych rodzajów
                                         oprogramowania użytkowego: edytory tekstu, arkusze kalkulacyjne, bazy
                                         danych, poczta elektroniczna, programy do prezentacji, przeglądarki

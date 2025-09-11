@@ -17,13 +17,21 @@ export const processList1 = [
   {
     no: "1",
     className: "me-lg-6",
-    title: "zatrudnione na umowach krótkoterminowych, umowach cywilno-prawnych lub wpisujące się w definicję os. ubogich pracujących,",
+    title: "pozostające poza zatrudnieniem, edukacją i szkoleniem (osoby z kategorii NEET)",
     subtitle: "",
     shadow: true
   },
   {
     no: "2",
     title: "mieszkające na obszarze woj. dolnośląskiego.",
+    className: "me-lg-6",
+    shadow: true,
+    subtitle: ""
+  }
+  ,
+  {
+    no: "3",
+    title: "w wieku 18-29 lat",
     className: "me-lg-6",
     shadow: true,
     subtitle: ""
