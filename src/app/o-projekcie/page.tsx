@@ -126,7 +126,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/doradztwo_zawodowe.jpg"
+                                        src="/img/photos/IPD.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -193,7 +193,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/posrednictwo_pracy.jpg"
+                                        src="/img/photos/psycholog.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -249,7 +249,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/podwyzszanie_kompoetencji.jpg"
+                                        src="/img/photos/poradnictwo.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -318,7 +318,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/doswiadczenie_zawodwoe.jpg"
+                                        src="/img/photos/szkolenie-z-kompetencji-cyfrowych.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -394,7 +394,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/podwyzszanie_kompoetencji.jpg"
+                                        src="/img/photos/szkolenie-zawodowe.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -478,7 +478,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/doswiadczenie_zawodwoe.jpg"
+                                        src="/img/photos/staz.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
