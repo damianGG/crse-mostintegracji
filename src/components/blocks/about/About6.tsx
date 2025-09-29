@@ -86,11 +86,11 @@ export default function About6() {
                 <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - staże zawodowe
                   spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
                   Staży,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 332,40 zł w zależności od długości szkolenia z
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 344,38 zł w zależności od długości szkolenia z
                   kompetencji cyfrowych,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 595,52 zł w zależności od długości szkolenia
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 239,77 zł w zależności od długości szkolenia
                   zawodowego,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 1 994,40 zł miesięcznie,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,04 zł miesięcznie,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia i staże dla części uczestników,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów opieki nad dzieckiem/osobą zależną dla części uczestników
                   szkoleń.</li>
