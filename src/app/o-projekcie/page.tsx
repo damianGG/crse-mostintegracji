@@ -42,80 +42,38 @@ export default function News() {
             </section>
 
             <div className="container mb-15 mt-15" >
-                <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 2 038 647,26 zł </p>
-                <p className="mb-3 fw-bold lead fs-lg mb-15 ">Wysokość wkładu Funduszy Europejskich: 1 427 053,08 zł</p>
+                <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 3 040 068,06 zł </p>
+                <p className="mb-3 fw-bold lead fs-lg mb-15 ">Wysokość wkładu Funduszy Europejskich: 2 720 060,90 zł</p>
                 <div className=" mt-4 mb-15">
                     <p className="mb-3 fw-bold lead fs-lg">
-                        Centrum Rozwoju Społeczno-Ekonomicznego realizuje projekt „Dolnośląskie
-                        Centrum Integracji NEET”<br /><br />
+                        Centrum Rozwoju Społeczno-Ekonomicznego realizuje projekt „Most Integracji -
+                        Podkarpackie Centrum Wsparcia OPT”<br />
                         Projekt współfinansowany z Europejskiego Funduszu Społecznego Plus (EFS+) w
-                        ramach programu Fundusze Europejskie dla Dolnego Śląska 2021-2027, Priorytet nr
-                        7 Fundusze Europejskie na rzecz rynku pracy i włączenia społecznego na Dolnym
-                        Śląsku, Działanie nr 7.5 Aktywna integracja.                  </p>
+                        ramach programu Fundusze Europejskie dla Podkarpacia 2021-2027, Priorytet nr 7
+                        Kapitał ludzki gotowy do zmian, Działanie nr 7.17 Integracja społeczno-gospodarcza
+                        obywateli państw trzecich.<br />
+                        Celem głównym projektu jest wsparcie integracji społeczno-gospodarczej 300
+                        obywateli państw trzecich, w tym migrantów i uchodźców (210K) w wieku 18 lat i
+                        więcej zamieszkujących w rozumieniu KC na obszarze woj. podkarpackiego w
+                        okresie 1.06.2025-30.06.2027, a tym samym zwiększenie ich aktywności społecznej,
+                        zawodowej i edukacyjnej.              </p>
                     <br />
 
                     <br />
 
                     <p className="mb-3 fw-bold lead fs-lg">
-                        Głównym celem projektu jest wsparcie aktywnego włączenia społecznego w celu
-                        promowania równości szans, niedyskryminacji i aktywnego uczestnictwa oraz
-                        zwiększenie zdolności do zatrudnienia w szczególności grup w niekorzystnej sytuacji
-                        - 100 osób młodych (60 kobiet, 40 mężczyzn) w wieku 18-29 lat, pozostających poza
-                        zatrudnieniem, edukacją i szkoleniem (osoby z kategorii NEET), jednocześnie
-                        wpisujących się w katalog osób wskazany w podrozdziale 4.2 pkt.1) Wytycznych
-
-                        (wsk. szczeg. str. 20-21 Regul. wyboru proj.), które zamieszkują w rozumieniu
-                        przepisów KC na obszarze woj. dolnośląskiego w okresie realizacji projektu tj.
-                        1.03.2025-31.12.2026.
+                        Główne rezultaty, które zostaną osiągnięte dzięki realizacji projektu:<br />
+                        - 233 osoby uzyska kwalifikacje po opuszczeniu programu,<br />
+                        - 120 osób sytuacja społeczna ulegnie poprawie po opuszczeniu programu,<br />
+                        - 45 osób podejmie kształcenie lub szkolenie po opuszczeniu programu,<br />
+                        - 75 osób będzie osobami pracującymi, łącznie z prowadzącymi działalność<br />
+                        na własny rachunek, po opuszczeniu programu.
                         <br />
                         <br />
                     </p>
-                    <p className="mb-3 fw-bold lead fs-lg">
-                        W ramach wyżej wymienionej grupy docelowej: <br />
-                    </p>
-                    <ul>
-                        <li>co najmniej 60 uczestników (36 kobiet, 24 mężczyzn) będzie
-                            zamieszkiwało w rozumieniu Kodeksu Cywilnego miasta średnie tracące
-                            funkcje społeczno-gospodarcze i/lub obszary zagrożone trwałą
-                            marginalizacją i/lub na obszarze wiejskim wg klasyfikacji DEGURBA w
-                            województwie dolnośląskim,
-                        </li>
-                        <li>40 uczestników (24 kobiety, 16 mężczyzn) będzie stanowiło osoby
-                            bezrobotne, w tym długotrwale bezrobotne,
-                        </li>
-                        <li>60 uczestników (36 kobiet, 24 mężczyzn) będzie stanowiło osoby bierne
-                            zawodowe,
-                        </li>
-                        <li>co najmniej 12 uczestników (7 kobiet, 5 mężczyzn) będzie osobami
-                            długotrwale bezrobotnymi,
-                        </li>
-                        <li>co najmniej 10 osób będą stanowiły osoby z niepełnosprawnościami (6
-                            kobiet, 4 mężczyzn),
-                        </li>
-                    </ul>
-                    <p>Główne rezultaty, które zostaną osiągnięte dzięki realizacji projektu:</p>
-                    <ul>
-                        <li>90 osób (54 kobiety, 36 mężczyzn) uzyska kwalifikacje po opuszczeniu
-                            programu,
-                        </li>
-                        <li>40 osób (24 kobiety, 16 mężczyzn) których sytuacja społeczna uległa
-                            poprawie po opuszczeniu programu,
-                        </li>
-                        <li>25 osób (15 kobiet, 10 mężczyzn) będzie osobami poszukującymi pracy
-                            po opuszczeniu programu,
-                        </li>
-                        <li>40 osób (24 kobiety, 16 mężczyzn) będzie osobami pracującymi, łącznie z
-                            prowadzącymi działalność na własny rachunek, po opuszczeniu
-                            programu.
-                        </li>
 
-                    </ul>
-                    <p>Projekt zakłada, że co najmniej 20% uczestników projektu tj. co najmniej 20 os. (12
-                        kobiet, 8 mężczyzn) w wyniku otrzymanego wsparcia podejmie zatrudnienie na
-                        podstawie umowy o pracę w wymiarze co najmniej ½etatu zawartej na okres co
-                        najmniej 6 miesięcy.</p>
-                    <p> Wartość projektu: 2 038 647,26 zł</p>
-                    <p> Wysokość wkładu Funduszy Europejskich: 1 427 053,08 zł</p>
+                    <p> Wartość projektu: 3 040 068,06 zł</p>
+                    <p> Wysokość wkładu Funduszy Europejskich: 2 720 060,90 zł</p>
                 </div>
 
                 <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
@@ -142,42 +100,30 @@ export default function News() {
 
 
 
-                        <p className="lead fs-lg">Identyfikacja potrzeb osób młodych oraz diagnozowanie możliwości w
-                            zakresie doskonalenia zawodowego poprzez opracowanie indywidualnych
-                            planów działań (IPD), w tym aktualizacja i podsumowanie</p>
+                        <p className="lead fs-lg">Usługi doradztwa zawodowego i psychologa - przygotowanie
+                            indywidualnej ścieżki wsparcia</p>
                         <div className="row gy-3 gx-xl-8">
                             <div className="col-xl-12">
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Uczestnik/czka projektu otrzyma śr. 4 godz. zegarowe indywidualnego
-                                        wsparcia. W ramach zadania dla każdego Uczestnika/czki przewidziano
-                                        identyfikację potrzeb oraz diagnozowanie możliwości w zakresie
-                                        doskonalenia zawodowego poprzez opracowanie Indywidualnych
-                                        Planów Działań (IPD), w tym aktualizacja i podsumowanie planu.                                   </li>
+                                        W ramach wskazanego wsparcia przygotowana zostanie indywidualna
+                                        ścieżka wsparcia UP, uzgodniona pomiędzy nim, a doradcą zawodowym
+                                        i psychologiem – ukierunkowana na pożądane działania w zakresie
+                                        integracji społeczno-gospodarczych OPT. Doradca zawodowy i
+                                        psycholog wspólnie z Uczestnikiem/Uczestniczką projektu dobiorą takie
+                                        formy wsparcia dostępne w projekcie, które najlepiej będą mogły
+                                        wpłynąć na poprawę sytuacji społeczno-zawodowej OPT.                                   </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        IPD będzie zawierał co najmniej analizę potencjału Uczestnika/czniki,
-                                        uwarunkowań zdrowotnych i społecznych Uczestnika/czki, przyczyn
-                                        pozostawania bez pracy i deficytów Uczestnika/czki, predyspozycji
-                                        zawodowych oraz wskazanie kierunków rozwoju Uczestnika/czki.
-                                        Uczestnik/czka na podstawie wspólnej decyzji z doradcą, opartej w
-                                        głównym stopniu na zdiagnozowanym profilu predyspozycji podejmie
-                                        decyzję o wyborze ścieżki szkoleniowej i pozostałym wsparciu
-                                        oferowanym w projekcie. Rodzaj wsparcia, w tym kursów zawodowych
-                                        będzie ściśle odpowiadał na potrzeby Uczestnika/czki wskazane w IPD.
-                                        IPD będzie mógł być modyfikowany w trakcie jego realizacji z powodu
-                                        zmiany osobistej sytuacji Uczestnika/czki, bądź też zewnętrznych
-                                        uwarunkowań – realizacja IPD będzie ciągle monitorowana. Każdy z
-                                        Uczestników/czek otrzyma ofertę wsparcia, obejmującą takie formy
-                                        pomocy, które zostaną zidentyfikowane u niego/niej jako niezbędne w
-                                        celu poprawy sytuacji społecznej, na rynku pracy, w tym uzyskania
-                                        zatrudnienia.
+                                        Przewidziano dostępność wsparcia dla 100% UP, każdy z nich otrzyma
+                                        śr. 3 godz. zegarowe indywidualnego wsparcia z doradcą zawodowym
+                                        i śr. 1 godz. zegarowe indywidualnego wsparcia z psychologiem.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 100% Uczestników/czek, średnio po 4
-                                        godziny dla UP.
+                                        Podczas odbywana indywidualnych spotkań Uczestnikom/czkom
+                                        zostanie zapewnione wsparcie tłumacza.
                                     </li>
 
                                 </ul>
@@ -211,8 +157,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Usługi aktywnej integracji o charakterze społecznym - indywidualne
-                            poradnictwo psychologiczne
+                            Usługi doradztwa zawodowego - indywidualne wsparcie doradcy OPT
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -220,22 +165,29 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Uczestnik/czka projektu otrzyma śr. 2 godz. zegarowe indywidualnego
-                                        wsparcia, które będzie musiało wynikać z IPD, aczkolwiek będzie
-                                        dostępne dla wszystkich Uczestników/czek. Poradnictwo psychologiczne
-                                        będzie miało na celu wzmacnianie potrzeby zmiany u Uczestników/czek.
-                                        UP wraz z psychologiem skupią się na indywidualnych przyczynach
-                                        niekorzystnej sytuacji i wspólnie będą poszukiwać najlepszych
-                                        rozwiązań. Poradnictwo przyczyni się do rozwiązania ich bieżących
-                                        problemów i specyficznych trudności związanych z sytuacją życiową i
-                                        podejmowaniem próby zmiany.
+                                        Doradca pomoże OPT przygotować się do rozmowy kwalifikacyjnej oraz
+                                        zastanowić się, gdzie mogą w pełni wykorzystać swoje doświadczenie w
+                                        ramach ofert rynku pracy. Ponadto wskaże, jakie należy spełnić
+                                        formalności umożliwiające autoryzację posiadanych już
+                                        kompetencji/kwalifikacji na terenie Polski. Wsparcie to będzie mocno
+                                        zindywidualizowane pod konkretnego uczestnika i tak naprawdę jego
+                                        tematyka/obszar będą wynikały z sytuacji danego uczestnika. Dobór w/w
+                                        wsparcia będzie musiał wynikać z indywidualnej ścieżki wsparcia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 100% Uczestników/czek, średnio po 2
-                                        godziny dla UP.
+                                        Przewidziano dostępność wsparcia dla 30% UP, 3 godz. zegarowe/os.,
+                                        dla Uczestnika co wynika z analizy potrzeb potencjalnych UP.
                                     </li>
-
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
+                                        zapewnione wsparcie tłumacza.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -267,8 +219,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Usługi aktywnej integracji o charakterze zawodowym - indywidualne
-                            poradnictwo zawodowe
+                            Pośrednictwo pracy
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -277,9 +228,15 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnik/czka projektu otrzyma śr. 2 godz. zegarowe indywidualnego
-                                        wsparcia, które będzie musiało wynikać z IPD, aczkolwiek będzie
-                                        dostępne dla wszystkich Uczestników/czek.
+                                        W ramach pośrednictwa pracy UP zostaną wyposażeni w umiejętność
+                                        poruszania się po rynku pracy i samodzielnego poszukiwania
+                                        zatrudnienia. Pośrednictwo pracy będzie polegało na pozyskaniu ofert
+                                        pracy zgodnych z oczekiwaniami, predyspozycjami i kwalifikacjami UP
+                                        oraz potrzebami lokalnego rynku pracy. Pośrednik pracy wspomoże
+                                        uczestników w pisaniu CV w kontekście aplikacji o pracę. Pośrednictwo
+                                        pracy będzie miało na celu udzielanie pomocy w uzyskaniu
+                                        odpowiedniego zatrudnienia. Dobór w/w wsparcia będzie musiał
+                                        wynikać z indywidualnej ścieżki wsparcia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -301,9 +258,25 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 100% Uczestników/czek, średnio po 2
-                                        godziny dla UP.
+                                        Przewidziano dostępność wsparcia dla 15% Uczestników/czek projektu,
+                                        3 godz. zegarowe/os., co wynika z analizy potrzeb potencjalnych UP.
                                     </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
+                                        zapewnione wsparcie tłumacza.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
+                                        zapewnione wsparcie tłumacza.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+
+                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia
+                                    </li>
+
 
                                 </ul>
                             </div>
@@ -336,7 +309,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Uzupełnienie poziomu kompetencji cyfrowych osób młodych
+                            Szkolenie - Podkarpacki Rynek Pracy
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -344,42 +317,27 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Projekt zakłada udział 50 Uczestników/czek w szkoleniu, śr. 24 godz.
-                                        szkolenia, którego tematyka będzie odpowiadała na zbadane &quot;luki
-                                        kompetencyjne&quot; Uczestników/czek.
+                                        W ramach zadania zaplanowano Szkolenie dla OPT mające na celu
+                                        miedzy innymi zapoznanie z podkarpackim rynkiem pracy i jego
+                                        specyfiką, prawem pracy, relacji w środowisku pracy, w tym napięć w
+                                        miejscu w pracy na tle kulturowym. Dobór w/w wsparcia będzie musiał
+                                        wynikać z indywidualnej ścieżki wsparcia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Program może obejmować np.: znajomość działania niektórych rodzajów
-                                        oprogramowania użytkowego: edytory tekstu, arkusze kalkulacyjne, bazy
-                                        danych, poczta elektroniczna, programy do prezentacji, przeglądarki
-                                        intern., edytory zdjęć, sieci; komunikacja w środowiskach cyfrowych;
-                                        zarządzanie tożsamością cyfrową; tworzenie i edytowanie nowych treści;
-                                        ochrona osobista i danych osobowych; rozpoznawanie potrzeb i narzędzi
-                                        do rozwiązywania problemów.                                   </li>
+                                        Przewidziano dostępność wsparcia dla 40% Uczestników/czek projektu,
+                                        co wynika z analizy potrzeb potencjalnych uczestników projektu.                               </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Na zakończenie szkolenia odbędzie się egzamin w zakresie
-                                        przeprowadzonego kształcenia - potwierdzający zdobyte kompetencje
-                                        cyfrowe.
+                                        1 usługa szkoleniowa na osobę, trwająca śr. 16 godz. dydaktycznych
+                                        dla 120 os. (śr. 10 grup x śr. 12 os.).
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W czasie realizacji szkolenia Uczestnikom/czkom przysługuje
-                                        stypendium szkoleniowe w wysokości 120% zasiłku, o którym mowa w
-                                        art. 224 ust. 1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
-                                        miesięczna liczba godzin szkolenia wynosi co najmniej 150 godzin
-                                        zegarowych. W przypadku niższej miesięcznej liczby godzin szkolenia,
-                                        wysokość stypendium ustala się proporcjonalnie, z tym, że stypendium to
-                                        nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ust. 1
-                                        pkt 1 ustawy o rynku pracy i służbach zatrudnienia.
+                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
+                                        ukończeniu szkolenia.
                                     </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        W ramach wsparcia Uczestnicy/czki mogą ubiegać się o zwrot kosztów
-                                        dojazdu, jak również o zwrot kosztów opieki nad dzieckiem lub osobą
-                                        zależną.
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -411,10 +369,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Usługi aktywnej integracji o charakterze zawodowym - realizacja
-                            wysokiej jakości szkoleń służących zdobyciu, zmianie lub podniesieniu
-                            kompetencji lub kwalifikacji niezbędnych do wykonywania danego
-                            zawodu lub zadań na określonym stanowisku
+                            Poradnictwo psychologiczne
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -423,45 +378,34 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W ramach zadania każdy/a z Uczestników/czek weźmie udział w
-                                        szkoleniu zawodowym nadającym kwalifikacje lub kompetencje.
+                                        Uczestnicy/czki otrzymają wsparcie i zrozumienie w trudnej sytuacji,
+                                        jaka ich dotknęła, psycholog wskaże jak radzić sobie z własnymi
+                                        emocjami (lękiem, niepokojem, osamotnieniem, agresją). Uczestnicy
+                                        projektu będą mogli skonsultować swoje decyzje życiowe, wspólnie
+                                        poszukać rozwiązań dla napotykanych problemów znaleźć motywację
+                                        do „walki o siebie” i zmiany. OPT uzyskają pomoc w sytuacjach dot.
+                                        przeciążenia związanym ze stresem migracyjnym i aklimatyzacyjnym,
+                                        otrzymają wsparcie w radzeniu sobie z codziennymi trudnościami
+                                        związanymi z życiem rodzinnym i zawodowym. Dobór w/w wsparcia
+                                        będzie musiał wynikać z indywidualnej ścieżki wsparcia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Szkolenia te umożliwią Uczestnikom/czkom zdobycie zatrudnienia i
-                                        polepszenie swojej sytuacji społecznej i zawodowej po zakończeniu
-                                        udziału w projekcie.
+                                        Przewidziano dostępność wsparcia dla 90% Uczestników/czek projektu,
+                                        śr. 4 godz. zegarowe/os., co wynika z analizy potrzeb potencjalnych
+                                        Uczestników/czek projektu.
 
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Szkolenia będą śr. 120-godzinne, aby Uczestnicy/czki nabyli realną
-                                        wiedzę i umiejętności w zakresie planowanego do wykonywania
-                                        zawodu. Tematyka szkolenia (zawód) będą stricte wynikały z IPD.
-                                        Uzyskanie kwalifikacji lub nabycie kompetencji będzie każdorazowo
-                                        zweryfikowane poprzez przeprowadzenie odpowiedniego sprawdzenia
-                                        przyswojonej wiedzy, umiejętności i kompetencji (np. w formie
-                                        egzaminu). Ponadto będzie potwierdzone odpowiednim dokumentem
-                                        (np. zaświadczenie, certyfikat).
+                                        Podczas odbywana indywidualnych spotkań Uczestnikom/czek
+                                        zostanie zapewnione wsparcie tłumacza.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W czasie realizacji szkolenia Uczestnikom/czkom przysługuje
-                                        stypendium szkoleniowe w wysokości 120% zasiłku, o którym mowa w
-                                        art. 224 ust. 1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
+                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                    </li>
 
-                                        miesięczna liczba godzin szkolenia wynosi co najmniej 150 godzin
-                                        zegarowych. W przypadku niższej miesięcznej liczby godzin szkolenia,
-                                        wysokość stypendium ustala się proporcjonalnie, z tym, że stypendium
-                                        to nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ust.
-                                        1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        W ramach wsparcia Uczestnicy/zki mogą ubiegać się o zwrot kosztów
-                                        dojazdu, jak również o zwrot kosztów opieki nad dzieckiem lub osobą
-                                        zależną.
-                                    </li>
 
 
                                 </ul>
@@ -469,6 +413,8 @@ export default function News() {
                         </div>
                     </div>
                 </div>
+
+
                 <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
                     <div className="col-lg-6 position-relative ">
 
@@ -495,9 +441,8 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Usługi aktywnej integracji o charakterze zawodowym - staże zawodowe
-                            spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
-                            Staży
+                            Warsztaty adaptacyjne dot. polskiego systemu pomocy społecznej,
+                            ochrony zdrowia, edukacji
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -505,56 +450,173 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 52 Uczestników/czek projektu i będzie to
-                                        wynikało z IPD (nie każdy/a Uczestnik/czka będzie wymagał/a tego typu
+                                        Uczestnicy będą mogli skorzystać z zajęć które będą miały charakter
+                                        warsztatowy, stosowane będą metody interaktywne i aktywizujące, co
+                                        bezpośrednio pogłębi zaangażowanie uczestników. Prowadzone będą
+                                        liczne dyskusje, symulacje, przedstawiane studia przypadków. Metody
+                                        wykładowe będą stanowić tylko niezbędną część warsztatu. Kształcone
+                                        umiejętności i zdobywana wiedza będą praktyczne, tak aby uczestnicy
 
-                                        działania); staż realizowany będzie na stanowisku związanym z tematyką
-                                        odbytego przez Uczestnika/czkę szkolenia
+                                        rozwijali te zagadnienia, które będą mogli wykorzystać w codziennym
+                                        życiu. Dobór w/w wsparcia będzie musiał wynikać z indywidualnej
+                                        ścieżki wsparcia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Czas pracy Uczestnika/czki odbywającego/j staż będzie trwał 8 godzin na
-                                        dobę (40 godzin tygodniowo), w przypadku osoby z niepełnosprawnością (w
-                                        stopniu znacznym lub umiarkowanym) 7 godzin na dobę (35 godzin
-                                        tygodniowo), każdorazowo przez okres 3 miesięcy.
+                                        Przewidziano dostępność wsparcia dla 40% uczestników projektu, co
+                                        wynika z analizy potrzeb potencjalnych uczestników projektu.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Staże odbywać się będą w firmach zlokalizowanych możliwie najbliżej
-                                        miejsc zamieszkania Uczestników/czek projektu, na stanowiskach w
-                                        zakresie jakich Uczestnik/czka projektu zdobył/a kwalifikacje, zgodnie
-                                        z ustalonym programem stażu.                                  </li>
+                                        Czas trwania warsztatów: 16 godz. dydaktycznych dla 120 os. (śr. 10
+                                        grup x śr. 12 os.).                            </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnikom/czkom projektu w ramach stażu zostaną zapewnione badania
-                                        lekarskie, polisa ubezpieczeniowa NNW oraz stypendium stażowe, którego
-                                        wysokość miesięcznie wyniesie 160% zasiłku dla bezrobotnych, zgodnie z
-                                        obowiązującymi stawkami w tym zakresie (psz.praca.gov.pl), jeżeli liczba
-                                        godzin stażu w miesiącu kalendarzowym wyniesie nie mniej niż 160 godzin
-                                        miesięcznie. W przypadku niższego miesięcznego wymiaru godzin,
-                                        wysokość stypendium ustala się proporcjonalnie.
+                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
+                                        ukończeniu warsztatów.
                                     </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Każdy stażysta będzie zdobywał doświadczenie pod opieką Opiekuna
-                                        stażysty.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        W ramach wsparcia Uczestnicy/czki projektu mogą ubiegać się o zwrot
-                                        kosztów dojazdu.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Szczegółowe warunki dotyczące odbywania przez Uczestnika/czkę projektu
-                                        stażu zawodowego reguluje odrębna umowa na organizację stażu dla
-                                        Uczestnika/czki projektu.
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
+                    <div className="col-lg-6 position-relative order-lg-1">
+
+                        <div className="overlap-grid overlap-grid-2">
+                            <div className="shape bg-dot primary rellax w-16 h-20" style={{ top: "14rem", left: "-2.5rem", zIndex: "-1" }} />
+                            <div>
+                                <figure className="rounded shadow">
+                                    <Image
+                                        src="/img/photos/szkolenie-zawodowe.jpg"
+                                        width={600}
+                                        height={1000}
+                                        alt="hero"
+                                    />
+                                </figure>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <div className="col-lg-6">
+
+
+                        <h2 className="display-4 mb-3"></h2>
+
+                        <p className="lead fs-lg">
+                            Wsparcie w nauce języka polskiego
+                        </p>
+
+                        <div className="row gy-3 gx-xl-8">
+                            <div className="col-xl-12">
+                                <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
+
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Uczestnicy Projektu nauczą się przełamać barierę językową co pozwoli
+                                        OPT na praktyczne wykorzystania zdobytych umiejętności. Regularne
+                                        konwersacje z Native Speakerem sprawią, że OPT nabiorą pewności w
+                                        posługiwaniu się obcym językiem, a ich wypowiedzi nabiorą płynności.
+                                        Podczas rozmów z Native speakerem Uczestnicy/czki będą mogli/ły
+                                        poznać różne aspekty życia codziennego w Polsce, poznać różnice
+                                        kulturowe i normy społeczno-obyczajowe regionu, co także pomoże w
+                                        zrozumieniu i nauce języka. Zatem wsparcie będzie miało aspekt nie
+                                        tylko ściśle edukacyjny, ale również kulturowy. Dobór w/w wsparcia
+                                        będzie musiał wynikać z indywidualnej ścieżki wsparcia.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Przewidziano dostępność wsparcia dla 10% Uczestników/czek projektu,
+                                        20 godz. zegarowych/os., co wynika z analizy potrzeb potencjalnych
+                                        uczestników projektu.
+
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                    </li>
+
+
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
+                    <div className="col-lg-6 position-relative ">
+
+                        <div className="overlap-grid overlap-grid-2">
+
+                            <div>
+                                <figure className="rounded shadow">
+                                    <Image
+                                        src="/img/photos/staz.jpg"
+                                        width={600}
+                                        height={1000}
+                                        alt="hero"
+                                    />
+                                </figure>
+                            </div>
+                            <div className="shape bg-dot primary rellax w-16 h-20" style={{ top: "14rem", left: "-2.5rem", zIndex: "-1" }} />
+
+                        </div>
+                    </div>
+
+                    <div className="col-lg-6">
+
+
+                        <h2 className="display-4 mb-3"></h2>
+
+                        <p className="lead fs-lg">
+                            Szkolenia/kursy zawodowe
+                        </p>
+
+                        <div className="row gy-3 gx-xl-8">
+                            <div className="col-xl-12">
+                                <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
+                                    <li>
+                                        <i className="uil uil-check" />
+                                        Celem szkolenia będzie zdobycie kwalifikacji zawodowych przez UP.
+                                        Zasadność i konieczność zastosowania wsparcia będzie wynikać
+                                        z indywidualnej ścieżki wsparcia, w tym diagnozy potencjału,
+                                        predyspozycji oraz posiadanego już doświadczenia, czy kwalifikacji
+                                        Uczestnika/czki. Oferowane usługi zawodowe będą uwzględniały
+                                        również aktualną sytuację i potrzeby regionalnego rynku pracy. Dobór
+                                        w/w wsparcia będzie musiał wynikać z indywidualnej ścieżki wsparcia.
+                                        Przewidziano dostępność wsparcia dla 86% uczestników projektu, co
+                                        wynika z analizy potrzeb potencjalnych Uczestników/czek projektu.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        1 usługa szkoleniowa na osobę, trwająca śr. 80 godz. dydaktycznych
+                                        (258 os.).
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Każdy/a Uczestnik/czka będzie miał/a możliwość wziąć udział w
+                                        egzaminie zgodnym z rodzajem kształcenia (np. egzamin czeladniczy,
+                                        VCC itp.).                        </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
+                                        ukończeniu szkolenia.
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </>
     );

@@ -14,7 +14,7 @@ export default function About6() {
 
         <div className="col-lg-12">
 
-          <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> „Dolnośląskie Centrum Integracji NEET”</h2>
+          <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> Most Integracji - Podkarpackie Centrum Wsparcia OPT</h2>
           <div className="col-lg-12">
             <p className="lead fs-lg">
               Do udziału w projekcie kwalifikują się osoby:
@@ -23,29 +23,23 @@ export default function About6() {
               <div className="col-xl-12">
 
                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                  <li><i className="uil uil-check"></i>w wieku 18-29 lat,</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>pozostające poza zatrudnieniem, edukacją i szkoleniem (osoby z
-                    kategorii NEET),</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>mieszkające na obszarze woj. dolnośląskiego.</li>
+                  <li><i className="uil uil-check"></i>posiadające status OPT: kandydat musi być obywatelem państwa
+                    trzeciego w rozumieniu przepisów krajowych i unijnych.</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>mieszkające na obszarze woj. podkarpackiego.</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>powyżej 18 roku życia.</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>nie posiadające obywatelstwa żadnego z krajów UE ani krajów takich
+                    jak: Norwegia, Islandia, Liechtenstein oraz Szwajcaria.</li>
                 </ul>
                 <h4 className="lead fs-lg mt-5 ">W szczególności do udziału w projekcie zapraszamy osoby:</h4>
                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                  <li><i className="uil uil-check"></i>posiadające orzeczenie o stopniu niepełnosprawności,</li>
+                  <li><i className="uil uil-check"></i>które po agresji Federacji Rosyjskiej na Ukrainę zostały objęte
+                    ochroną czasową,</li>
                   <li className="mt-3"><i className="uil uil-check"></i>kobiety,</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>długotrwale bezrobotne</li>
 
-                  <li className="mt-3"><i className="uil uil-check"></i>zamieszkujące miasta średnie tracące funkcje społeczno-
-                    gospodarcze tj.: Bielawa, Bolesławiec, Dzierżoniów, Głogów, Jawor,
-                    Jelenia Góra, Kamienna Góra, Kłodzko, Legnica, Lubań, Nowa Ruda,
-                    Świdnica, Świebodzice, Wałbrzych, Ząbkowice Śl., Zgorzelec, Złotoryja lub
-                    obszary zagrożone trwałą marginalizacją na terenie województwa
-                    dolnośląskiego tj.: Bardo, Boguszów-Gorce, Bystrzyca Kłodzka,
-                    Duszniki-Zdrój, Góra, Gromadka, Jemielno, Kamieniec Ząbkowicki,
-                    Kowary, Lądek-Zdrój, Leśna, Lewin Kłodzki, Międzylesie, Mirsk, Niechlów,
-                    Nowa Ruda, Pęcław, Pieńsk, Przemków, Przeworno, Radków, Stoszowice,
-                    Stronie Śląskie, Świeradów-Zdrój, Świerzawa, Węgliniec, Wojcieszów,
-                    Zawidów, Ziębice, Złoty Stok lub obszary wiejskie według klasyfikacji
-                    DEGURBA na terenie województwa dolnośląskiego.</li>
+
+                  <li className="mt-3"><i className="uil uil-check"></i>posiadające orzeczenie o stopniu niepełnosprawności,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>posiadające brak doświadczenia zawodowego w Polsce,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>posiadające status samotnego opiekuna dziecka.</li>
                 </ul>
               </div>
 
@@ -71,34 +65,23 @@ export default function About6() {
           <div className="row gy-3 ">
             <div className="col-xl-6">
               <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                <li className="mt-3"><i className="uil uil-check"></i>identyfikację potrzeb osób młodych oraz diagnozowanie możliwości w
-                  zakresie doskonalenia zawodowego poprzez opracowanie indywidualnych
-                  planów działań (IPD), w tym aktualizacja i podsumowanie,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze społecznym - indywidualne
-                  poradnictwo psychologiczne,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - indywidualne
-                  poradnictwo zawodowe,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>uzupełnienie poziomu kompetencji cyfrowych osób młodych,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - realizacja wysokiej
-                  jakości szkoleń służących zdobyciu, zmianie lub podniesieniu kompetencji
-                  lub kwalifikacji niezbędnych do wykonywania danego zawodu lub zadań na
-                  określonym stanowisku,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - staże zawodowe
-                  spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
-                  Staży,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 344,38 zł w zależności od długości szkolenia z
-                  kompetencji cyfrowych,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 239,77 zł w zależności od długości szkolenia
-                  zawodowego,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,04 zł miesięcznie,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia i staże dla części uczestników,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów opieki nad dzieckiem/osobą zależną dla części uczestników
-                  szkoleń.</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Usługę doradztwa zawodowego i psychologa – przygotowanie indywidualnej ścieżki wsparcia,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Usługi doradztwa zawodowego – indywidualne wsparcie doradcy OPT,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Pośrednictwo pracy,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Szkolenie – Podkarpacki Rynek Pracy,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Poradnictwo psychologiczne,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Warsztaty adaptacyjne dotyczące polskiego systemu pomocy społecznej, ochrony zdrowia i edukacji,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Wsparcie w nauce języka polskiego,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Szkolenia / kursy zawodowe,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Wsparcie tłumacza,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Catering dla uczestników szkoleń i warsztatów,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Zwrot kosztów dojazdu na szkolenia i warsztaty dla części uczestników,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>Zwrot kosztów opieki nad dzieckiem / osobą zależną dla części uczestników szkoleń i warsztatów.</li>
 
               </ul>
             </div>
 
-            <p className="text-center fs-20 mt-15">Okres realizacji projektu: 01.03.2025 r. - 31.12.2026 r.</p>
+            <p className="text-center fs-20 mt-15">Okres realizacji projektu: 01.06.2025 r. - 30.06.2027 r.</p>
 
           </div>
 

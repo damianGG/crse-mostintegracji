@@ -17,27 +17,33 @@ export const processList1 = [
   {
     no: "1",
     className: "me-lg-6",
-    title: "pozostające poza zatrudnieniem, edukacją i szkoleniem (osoby z kategorii NEET)",
+    title: "posiadające status OPT: kandydat musi być obywatelem państwa trzeciego w rozumieniu przepisów krajowych i unijnych.",
     subtitle: "",
     shadow: true
   },
   {
     no: "2",
-    title: "mieszkające na obszarze woj. dolnośląskiego.",
     className: "me-lg-6",
-    shadow: true,
-    subtitle: ""
-  }
-  ,
+    title: "mieszkające na obszarze woj. podkarpackiego.",
+    subtitle: "",
+    shadow: true
+  },
   {
     no: "3",
-    title: "w wieku 18-29 lat",
     className: "me-lg-6",
-    shadow: true,
-    subtitle: ""
+    title: "powyżej 18 roku życia.",
+    subtitle: "",
+    shadow: true
+  },
+  {
+    no: "4",
+    className: "me-lg-6",
+    title: "nie posiadające obywatelstwa żadnego z krajów UE ani krajów takich jak: Norwegia, Islandia, Liechtenstein oraz Szwajcaria.",
+    subtitle: "",
+    shadow: true
   }
+]
 
-];
 
 export const doPobrania = [
   {

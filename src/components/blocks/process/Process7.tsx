@@ -84,31 +84,13 @@ export default async function Process7() {
 
           <p>W szczególności do udziału w projekcie zapraszamy osoby:</p>
           <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-            <li><i className="uil uil-check"></i><strong>posiadające orzeczenie o stopniu niepełnosprawności,</strong></li>
+            <li><i className="uil uil-check"></i><strong>które po agresji Federacji Rosyjskiej na Ukrainę zostały objęte
+              ochroną czasową,</strong></li>
             <li><i className="uil uil-check"></i><strong>kobiety,</strong></li>
-            <li><i className="uil uil-check"></i><strong>długotrwale bezrobotne</strong></li>
-            <li><i className="uil uil-check"></i>
-              <strong>
-                zamieszkujące miasta średnie tracące funkcje społeczno-gospodarcze na terenie województwa dolnośląskiego
-                tj.:
-              </strong>
+            <li><i className="uil uil-check"></i><strong>posiadające orzeczenie o stopniu niepełnosprawności,</strong></li>
+            <li><i className="uil uil-check"></i><strong>posiadające brak doświadczenia zawodowego w Polsce,</strong></li>
+            <li><i className="uil uil-check"></i><strong>posiadające status samotnego opiekuna dziecka.</strong></li>
 
-              Bielawa, Bolesławiec, Dzierżoniów, Głogów, Jawor, Jelenia Góra,
-              Kamienna Góra, Kłodzko, Legnica, Lubań, Nowa Ruda, Świdnica,
-              Świebodzice, Wałbrzych, Ząbkowice Śl., Zgorzelec, Złotoryja
-              <strong>
-                lub obszary
-                zagrożone trwałą marginalizacją na terenie województwa dolnośląskiego
-                tj.:
-              </strong>
-              Bardo, Boguszów-Gorce, Bystrzyca Kłodzka, Duszniki-Zdrój, Góra,
-              Gromadka, Jemielno, Kamieniec Ząbkowicki, Kowary, Lądek-Zdrój, Leśna,
-              Lewin Kłodzki, Międzylesie, Mirsk, Niechlów, Nowa Ruda, Pęcław, Pieńsk,
-              Przemków, Przeworno, Radków, Stoszowice, Stronie Śląskie, Świeradów-
-              Zdrój, Świerzawa, Węgliniec, Wojcieszów, Zawidów, Ziębice, Złoty Stok
-              <strong> lub
-                obszary wiejskie według klasyfikacji DEGURBA na terenie województwa
-                dolnośląskiego.</strong></li>
           </ul>
 
         </div>
