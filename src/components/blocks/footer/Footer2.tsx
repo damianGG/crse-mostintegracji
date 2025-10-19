@@ -48,7 +48,7 @@ export default function Footer2() {
                 </div>
               </div>
               <div className="col-md-4 col-lg-3">
-                <div className="widget">
+                {/* <div className="widget">
                   <p className="widget-title fs-15 fw-bold">
                     <i className="uil uil-facebook-f fs-25" /> facebook</p>
 
@@ -57,7 +57,7 @@ export default function Footer2() {
 
                   <Link href="https://www.facebook.com/profile.php?id=61575901296042" className="link-primary" target="_blank">Dolnośląskie Centrum Integracji NEET</Link>
 
-                </div>
+                </div> */}
               </div>
             </div>
 

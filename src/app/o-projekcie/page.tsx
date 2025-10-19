@@ -84,7 +84,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/IPD.jpg"
+                                        src="/projekt/1 Usługi doradztwa zawodowego i psychologa - przygotowanie indywidualnej ścieżki wsparcia.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -139,7 +139,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/psycholog.jpg"
+                                        src="/projekt/2 Usługi doradztwa zawodowego - indywidualne wsparcie doradcy OPT.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -201,7 +201,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/poradnictwo.jpg"
+                                        src="/projekt/3 Pośrednictwo pracy.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -291,7 +291,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/szkolenie-z-kompetencji-cyfrowych.jpg"
+                                        src="/projekt/4 Szkolenie - Podkarpacki Rynek Pracy.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -351,7 +351,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/szkolenie-zawodowe.jpg"
+                                        src="/projekt/5 Poradnictwo psychologiczne.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -423,7 +423,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/staz.jpg"
+                                        src="/projekt/6 Warsztaty adaptacyjne dot. polskiego systemu pomocy społecznej, ochrony zdrowia, edukacji.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -490,7 +490,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/szkolenie-zawodowe.jpg"
+                                        src="/projekt/7 Wsparcie w nauce języka polskiego.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -558,7 +558,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/staz.jpg"
+                                        src="/projekt/8 Szkoleniakursy zawodowe.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
