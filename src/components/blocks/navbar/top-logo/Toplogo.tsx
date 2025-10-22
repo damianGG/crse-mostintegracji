@@ -4,7 +4,7 @@ export default function Toplogo() {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
       <Image
-        src="/img/logos/feds.jpg"
+        src="/img/logos/podkarpackie.jpg"
         alt="logo"
         sizes="90vw"
         width={1200}
