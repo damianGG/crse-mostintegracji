@@ -66,7 +66,7 @@ export default async function Process7() {
             <h2 className="display-4 mb-4 px-lg-10">KTO MOŻE WZIĄĆ UDZIAŁ W PROJEKCIE? <br></br> Osoby:</h2>
           </div>
         </div>
-        <div className="col-lg-12 order-lg-2 d-flex">
+        <div className="col-lg-12 order-lg-2 d-flex flex-wrap" style={{ gap: "1rem" }}>
           {processList1.map((item) => (
             <ProcessList1 {...item} key={item.no} />
           ))}
