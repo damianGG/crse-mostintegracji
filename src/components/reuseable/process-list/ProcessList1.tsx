@@ -4,7 +4,7 @@ import clsx from "clsx";
 interface ProcessList1Props {
   no: string;
   title: string;
-  subtitle: string;
+  subtitle?: string;
   shadow: boolean;
   className: string;
 }
