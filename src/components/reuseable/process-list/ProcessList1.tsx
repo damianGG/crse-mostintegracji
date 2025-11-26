@@ -12,7 +12,7 @@ interface ProcessList1Props {
 
 export default function ProcessList1({ no, title, subtitle, className, shadow }: ProcessList1Props) {
   return (
-    <div style={{ flex: "1 1 0", minWidth: "200px" }}
+    <div style={{ height: "100%" }}
       className={clsx({
         card: true,
         "shadow-lg": shadow,
