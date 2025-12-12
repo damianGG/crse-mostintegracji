@@ -42,7 +42,7 @@ export default function News() {
             </section>
 
             <div className="container mb-15 mt-15" >
-                <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 3 040 068,06 zł </p>
+                <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 3 200 071,65 zł </p>
                 <p className="mb-3 fw-bold lead fs-lg mb-15 ">Wysokość wkładu Funduszy Europejskich: 2 720 060,90 zł</p>
                 <div className=" mt-4 mb-15">
                     <p className="mb-3 fw-bold lead fs-lg">
@@ -72,7 +72,7 @@ export default function News() {
                         <br />
                     </p>
 
-                    <p> Wartość projektu: 3 040 068,06 zł</p>
+                    <p> Wartość projektu: 3 200 071,65 zł</p>
                     <p> Wysokość wkładu Funduszy Europejskich: 2 720 060,90 zł</p>
                 </div>
 
