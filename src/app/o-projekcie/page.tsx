@@ -53,8 +53,8 @@ export default function News() {
                         Kapitał ludzki gotowy do zmian, Działanie nr 7.17 Integracja społeczno-gospodarcza
                         obywateli państw trzecich.<br />
                         Celem głównym projektu jest wsparcie integracji społeczno-gospodarczej 300
-                        obywateli państw trzecich, w tym migrantów i uchodźców (210K) w wieku 18 lat i
-                        więcej zamieszkujących w rozumieniu KC na obszarze woj. podkarpackiego w
+                        obywateli państw trzecich, w tym migrantów i uchodźców 210 kobiet i 90 mężczyzn w wieku 18 lat i
+                        więcej zamieszkujących w rozumieniu kodeku cywilnego na obszarze woj. podkarpackiego w
                         okresie 1.06.2025-30.06.2027, a tym samym zwiększenie ich aktywności społecznej,
                         zawodowej i edukacyjnej.              </p>
                     <br />
@@ -63,11 +63,10 @@ export default function News() {
 
                     <p className="mb-3 fw-bold lead fs-lg">
                         Główne rezultaty, które zostaną osiągnięte dzięki realizacji projektu:<br />
-                        - 233 osoby uzyska kwalifikacje po opuszczeniu programu,<br />
+                        - 233 osoby uzyskują nowa kwalifikacje/kompetencje,<br />
                         - 120 osób sytuacja społeczna ulegnie poprawie po opuszczeniu programu,<br />
-                        - 45 osób podejmie kształcenie lub szkolenie po opuszczeniu programu,<br />
-                        - 75 osób będzie osobami pracującymi, łącznie z prowadzącymi działalność<br />
-                        na własny rachunek, po opuszczeniu programu.
+                        - 45 osób podejmie dodatkowe kształcenie lub szkolenie po opuszczeniu programu,<br />
+                        - 75 osób podejmie pracę zarobkową lub założy działalność na własny rachunek.
                         <br />
                         <br />
                     </p>
@@ -107,24 +106,29 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        W ramach wskazanego wsparcia przygotowana zostanie indywidualna
-                                        ścieżka wsparcia UP, uzgodniona pomiędzy nim, a doradcą zawodowym
-                                        i psychologiem – ukierunkowana na pożądane działania w zakresie
-                                        integracji społeczno-gospodarczych OPT. Doradca zawodowy i
-                                        psycholog wspólnie z Uczestnikiem/Uczestniczką projektu dobiorą takie
-                                        formy wsparcia dostępne w projekcie, które najlepiej będą mogły
-                                        wpłynąć na poprawę sytuacji społeczno-zawodowej OPT.                                   </li>
+                                        Pierwszym obligatoryjnym elementem udziału każdego Uczestnika/Uczestniczki
+                                        projektu będzie przygotowanie Indywidualnej ścieżki wsparcia (IŚW).                                </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 100% UP, każdy z nich otrzyma
-                                        śr. 3 godz. zegarowe indywidualnego wsparcia z doradcą zawodowym
-                                        i śr. 1 godz. zegarowe indywidualnego wsparcia z psychologiem.
+                                        W ramach wsparcia zostanie sporządzony przez doradcę zawodowego i psychologa
+                                        dokument (IŚW), w którym zostanie określony profil potrzeb i potencjału
+                                        Uczestnika/Uczestniczki. W dokumencie opisana zostanie również indywidualna
+                                        ścieżka wsparcia OPT, uzgodniona pomiędzy Uczestnikiem/Uczestniczką, a doradcą
+                                        zawodowym i psychologiem – zawierająca wybrane formy wsparcia dostępne
+                                        w projekcie, które najlepiej będą mogły wpłynąć na poprawę sytuacji społeczno-
+                                        zawodowej OPT.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Podczas odbywana indywidualnych spotkań Uczestnikom/czkom
-                                        zostanie zapewnione wsparcie tłumacza.
+                                        Podczas odbywania indywidualnych spotkań Uczestnikom/Uczestniczkom zostanie
+                                        zapewniona możliwość wsparcia tłumacza.
                                     </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Wsparciem zostanie objętych 300 Uczestników/Uczestniczek (wszyscy Uczestnicy
+                                        projektu).
+                                    </li>
+
 
                                 </ul>
                             </div>
@@ -165,28 +169,28 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Doradca pomoże OPT przygotować się do rozmowy kwalifikacyjnej oraz
-                                        zastanowić się, gdzie mogą w pełni wykorzystać swoje doświadczenie w
-                                        ramach ofert rynku pracy. Ponadto wskaże, jakie należy spełnić
-                                        formalności umożliwiające autoryzację posiadanych już
-                                        kompetencji/kwalifikacji na terenie Polski. Wsparcie to będzie mocno
-                                        zindywidualizowane pod konkretnego uczestnika i tak naprawdę jego
-                                        tematyka/obszar będą wynikały z sytuacji danego uczestnika. Dobór w/w
-                                        wsparcia będzie musiał wynikać z indywidualnej ścieżki wsparcia.
+                                        Doradca zawodowy wesprze OPT w planowaniu i realizacji indywidualnej ścieżki
+                                        wsparcia (IŚW), w szczególności poprzez: pomoc w realizacji działań
+                                        zaplanowanych w IŚW, udzielanie informacji na temat dostępnych form
+                                        zatrudnienia oraz możliwości prowadzenia działalności gospodarczej w Polsce,
+                                        prowadzenie indywidualnych konsultacji zawodowych, przygotowanie do procesu
+                                        rekrutacji, w tym do rozmowy kwalifikacyjnej, wskazanie formalności niezbędnych
+                                        do potwierdzenia (autoryzacji) posiadanych kompetencji i kwalifikacji na terenie
+                                        Polski..
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 30% UP, 3 godz. zegarowe/os.,
-                                        dla Uczestnika co wynika z analizy potrzeb potencjalnych UP.
+                                        Wsparcie w postaci indywidualnych spotkań z doradcą OPT w wymiarze 3 godzin
+                                        zegarowych/osobę.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
-                                        zapewnione wsparcie tłumacza.
+                                        Podczas odbywania indywidualnych spotkań Uczestnikom/Uczestniczkom zostanie
+                                        zapewniona możliwość wsparcie tłumacza.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                        Wsparciem zostanie objętych 90 osób. Dobór wsparcia będzie wynikał z IŚW.
                                     </li>
                                 </ul>
                             </div>
@@ -228,53 +232,30 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W ramach pośrednictwa pracy UP zostaną wyposażeni w umiejętność
-                                        poruszania się po rynku pracy i samodzielnego poszukiwania
-                                        zatrudnienia. Pośrednictwo pracy będzie polegało na pozyskaniu ofert
-                                        pracy zgodnych z oczekiwaniami, predyspozycjami i kwalifikacjami UP
-                                        oraz potrzebami lokalnego rynku pracy. Pośrednik pracy wspomoże
-                                        uczestników w pisaniu CV w kontekście aplikacji o pracę. Pośrednictwo
-                                        pracy będzie miało na celu udzielanie pomocy w uzyskaniu
-                                        odpowiedniego zatrudnienia. Dobór w/w wsparcia będzie musiał
-                                        wynikać z indywidualnej ścieżki wsparcia.
+                                        Pośrednictwo pracy będzie ukierunkowane na wsparcie OPT w skutecznym
+                                        poruszaniu się po rynku pracy oraz uzyskaniu zatrudnienia zgodnego z ich kwalifikacjami, predyspozycjami i oczekiwaniami, z uwzględnieniem potrzeb
+                                        lokalnego i regionalnego rynku pracy.
+                                        Wsparcie obejmie w szczególności indywidualną pracę z Uczestnikiem, polegającą
+                                        na wspólnym poszukiwaniu ofert pracy, bieżącym przekazywaniu informacji o
+                                        aktualnej sytuacji na rynku pracy oraz inicjowaniu kontaktów z pracodawcami.
+                                        Pośrednik pracy będzie pozyskiwał i prezentował oferty pracy, a także wspierał
+                                        uczestników w przygotowaniu dokumentów aplikacyjnych, w tym CV, w kontekście
+                                        konkretnych ofert zatrudnienia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Poradnictwo zawodowe indywidualne realizowane będzie w formie
-                                        indywidualnych spotkań – porad zawodowych – polegających na
-                                        bezpośrednim kontakcie doradcy zawodowego z Uczestnikiem/czką
-                                        projektu. Poradnictwo zawodowe indywidualne jest formą wsparcia
-                                        wspomagającą proces poszukiwania pracy, jeżeli istnieją ku temu
-                                        oczywiste przesłanki, wynikające głównie z postawy Uczestnika/czki
-                                        projektu, np. brak motywacji do poszukiwania pracy lub brak wiedzy na
-                                        temat własnych kompetencji i zasobów. Tematyka poradnictwa
-                                        zawodowego jest bardzo szeroka, ale tak naprawdę będzie skupiona na
-                                        problemach i potrzebach Uczestnika/czki, zatem będzie ściśle
-                                        dostosowana pod jego potrzeby. Wsparcie w ramach niniejszego
-                                        Zadania nie będzie pokrywało się ze wsparciem udzielonym w ramach
-                                        Zadania 1, ale będzie jego uzupełnieniem/poszerzeniem w zależności od
-                                        zdiagnozowanych potrzeb.
+                                        Wsparcie w postaci indywidualnych spotkań z pośrednikiem pracy w wymiarze
+                                        3 godzin zegarowych/osobę.
 
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 15% Uczestników/czek projektu,
-                                        3 godz. zegarowe/os., co wynika z analizy potrzeb potencjalnych UP.
+                                        Podczas odbywania indywidualnych spotkań Uczestnikom/Uczestniczkom zostanie
+                                        zapewniona możliwość wsparcie tłumacza.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
-                                        zapewnione wsparcie tłumacza.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Podczas odbywana indywidualnych spotkań Uczestnikom zostanie
-                                        zapewnione wsparcie tłumacza.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-
-                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia
+                                        Wsparciem zostanie objętych 45 osób. Dobór wsparcia będzie wynikał z IŚW.
                                     </li>
 
 
@@ -317,25 +298,35 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        W ramach zadania zaplanowano Szkolenie dla OPT mające na celu
-                                        miedzy innymi zapoznanie z podkarpackim rynkiem pracy i jego
-                                        specyfiką, prawem pracy, relacji w środowisku pracy, w tym napięć w
-                                        miejscu w pracy na tle kulturowym. Dobór w/w wsparcia będzie musiał
-                                        wynikać z indywidualnej ścieżki wsparcia.
+                                        Szkolenie będzie miało na celu m.in.: zapoznanie z podkarpackim rynkiem pracy,
+                                        jego specyfiką i potrzebami, prawem pracy, relacjami w środowisku pracy, w tym
+                                        napięciami w miejscu w pracy na tle kulturowym, planowanymi zmianami
+                                        w zatrudnianiu OPT, rodzajami zezwoleń na pracę dla OPT, zagrożeniami
+                                        związanymi z nielegalnym zatrudnieniem OPT, podatki oraz ubezpieczenia
+                                        społeczne.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 40% Uczestników/czek projektu,
-                                        co wynika z analizy potrzeb potencjalnych uczestników projektu.                               </li>
+                                        Szkolenie trwające śr. 16 godzin szkoleniowych (2 dni x śr. 8 godz. szkoleniowych).                               </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        1 usługa szkoleniowa na osobę, trwająca śr. 16 godz. dydaktycznych
-                                        dla 120 os. (śr. 10 grup x śr. 12 os.).
+                                        Podczas szkolenia Uczestnikom/Uczestniczkom zostanie zapewniona możliwość
+                                        wsparcie tłumacza.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
-                                        ukończeniu szkolenia.
+                                        Każdy Uczestnik będzie miał zapewniony catering podczas dnia szkoleniowego.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        W ramach wsparcia Uczestnik/Uczestniczka będzie mógł/mogła ubiegać się o zwrot
+                                        kosztów dojazdu zgodnie z zasadami określonymi w rozdziale VI i/lub zwrot
+                                        kosztów opieki nad dzieckiem/osobą zależną zgodnie z zasadami określonymi
+                                        w rozdziale VII.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Wsparciem zostanie objętych 120 osób. Dobór wsparcia będzie wynikał z IŚW.
                                     </li>
 
                                 </ul>
@@ -378,32 +369,27 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają wsparcie i zrozumienie w trudnej sytuacji,
-                                        jaka ich dotknęła, psycholog wskaże jak radzić sobie z własnymi
-                                        emocjami (lękiem, niepokojem, osamotnieniem, agresją). Uczestnicy
-                                        projektu będą mogli skonsultować swoje decyzje życiowe, wspólnie
-                                        poszukać rozwiązań dla napotykanych problemów znaleźć motywację
-                                        do „walki o siebie” i zmiany. OPT uzyskają pomoc w sytuacjach dot.
-                                        przeciążenia związanym ze stresem migracyjnym i aklimatyzacyjnym,
-                                        otrzymają wsparcie w radzeniu sobie z codziennymi trudnościami
-                                        związanymi z życiem rodzinnym i zawodowym. Dobór w/w wsparcia
-                                        będzie musiał wynikać z indywidualnej ścieżki wsparcia.
+                                        W ramach wsparcia Uczestnicy/Uczestniczki otrzymają indywidualną pomoc
+                                        psychologiczną związaną ze zdrowiem psychiczno-fizycznym OPT.
+                                        Uczestnicy/Uczestniczki uzyskają pomoc w sytuacjach dot. przeciążenia
+                                        związanym ze stresem migracyjnym i aklimatyzacyjnym, otrzymają wsparcie
+                                        w radzeniu sobie z codziennymi trudnościami związanymi z życiem rodzinnym
+                                        i zawodowym.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 90% Uczestników/czek projektu,
-                                        śr. 4 godz. zegarowe/os., co wynika z analizy potrzeb potencjalnych
-                                        Uczestników/czek projektu.
+                                        Wsparcie w postaci poradnictwa psychologicznego w wymiarze śr. 4 godzin
+                                        zegarowych/osobę.
 
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Podczas odbywana indywidualnych spotkań Uczestnikom/czek
-                                        zostanie zapewnione wsparcie tłumacza.
+                                        Podczas odbywania indywidualnych spotkań Uczestnikom/Uczestniczkom zostanie
+                                        zapewniona możliwość wsparcia tłumacza.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                        Wsparciem zostanie objętych 270 osób. Dobór wsparcia będzie wynikał z IŚW.
                                     </li>
 
 
@@ -441,8 +427,8 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Warsztaty adaptacyjne dot. polskiego systemu pomocy społecznej,
-                            ochrony zdrowia, edukacji
+                            Warsztaty adaptacyjne dot. polskiego systemu pomocy społecznej, ochrony zdrowia,
+                            edukacji
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -450,32 +436,32 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Uczestnicy będą mogli skorzystać z zajęć które będą miały charakter
-                                        warsztatowy, stosowane będą metody interaktywne i aktywizujące, co
-                                        bezpośrednio pogłębi zaangażowanie uczestników. Prowadzone będą
-                                        liczne dyskusje, symulacje, przedstawiane studia przypadków. Metody
-                                        wykładowe będą stanowić tylko niezbędną część warsztatu. Kształcone
-                                        umiejętności i zdobywana wiedza będą praktyczne, tak aby uczestnicy
-
-                                        rozwijali te zagadnienia, które będą mogli wykorzystać w codziennym
-                                        życiu. Dobór w/w wsparcia będzie musiał wynikać z indywidualnej
-                                        ścieżki wsparcia.
+                                        Warsztaty będą miały na celu wprowadzenie Uczestników/Uczestniczek w polski
+                                        system pomocy społecznej, ochrony zdrowia i edukacji.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 40% uczestników projektu, co
-                                        wynika z analizy potrzeb potencjalnych uczestników projektu.
+                                        Warsztaty trwające 16 godzin szkoleniowych (2 dni x śr. 8 godz. szkoleniowych).
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Czas trwania warsztatów: 16 godz. dydaktycznych dla 120 os. (śr. 10
-                                        grup x śr. 12 os.).                            </li>
+                                        Podczas warsztatów Uczestnikom/Uczestniczkom zostanie zapewniona możliwość
+                                        wsparcie tłumacza.                            </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
-                                        ukończeniu warsztatów.
+                                        W ramach wsparcia Uczestnik/Uczestniczka będzie mógł/mogła ubiegać się o zwrot
+                                        kosztów dojazdu zgodnie z zasadami określonymi w rozdziale VI i/lub zwrot
+                                        kosztów opieki nad dzieckiem/osobą zależną zgodnie z zasadami określonymi
+                                        w rozdziale VII.
                                     </li>
-
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Każdy Uczestnik będzie miał zapewniony catering podczas dnia szkoleniowego.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Wsparciem zostanie objętych 120 osób. Dobór wsparcia będzie wynikał z IŚW.
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -517,32 +503,27 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy Projektu nauczą się przełamać barierę językową co pozwoli
-                                        OPT na praktyczne wykorzystania zdobytych umiejętności. Regularne
-                                        konwersacje z Native Speakerem sprawią, że OPT nabiorą pewności w
-                                        posługiwaniu się obcym językiem, a ich wypowiedzi nabiorą płynności.
-                                        Podczas rozmów z Native speakerem Uczestnicy/czki będą mogli/ły
-                                        poznać różne aspekty życia codziennego w Polsce, poznać różnice
-                                        kulturowe i normy społeczno-obyczajowe regionu, co także pomoże w
-                                        zrozumieniu i nauce języka. Zatem wsparcie będzie miało aspekt nie
-                                        tylko ściśle edukacyjny, ale również kulturowy. Dobór w/w wsparcia
-                                        będzie musiał wynikać z indywidualnej ścieżki wsparcia.
+                                        W ramach wsparcia Uczestnikom/Uczestniczkom zostanie zapewnione 20 godz.
+                                        zegarowych indywidualnych konwersacji z Native speakerem. Ćwiczenia językowe
+                                        będą koncentrowały się na symulowaniu realistycznych sytuacji komunikacyjnych,
+                                        ale także podczas spotkań Uczestnicy/Uczestniczki będą mogli poznać różne
+                                        aspekty życia codziennego w Polsce, poznać różnice kulturowe i normy społeczno-
+                                        obyczajowe regionu. Zajęcia umożliwią OPT szybsze przełamanie bariery
+                                        językowej, osłuchanie się z naturalnym akcentem języka polskiego oraz
+                                        doskonalenie umiejętności komunikacyjnych poprzez symulowanie realistycznych
+                                        sytuacji z życia codziennego.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Przewidziano dostępność wsparcia dla 10% Uczestników/czek projektu,
-                                        20 godz. zegarowych/os., co wynika z analizy potrzeb potencjalnych
-                                        uczestników projektu.
+                                        W ramach wsparcia Uczestnik/Uczestniczka będzie mógł/mogła ubiegać się o zwrot
+                                        kosztów opieki nad dzieckiem/osobą zależną zgodnie z zasadami określonymi
+                                        w rozdziale VII.
 
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają zaświadczenie o ukończeniu wsparcia.
+                                        Wsparciem zostanie objętych 30 osób. Dobór wsparcia będzie wynikał z IŚW.
                                     </li>
-
-
-
-
                                 </ul>
                             </div>
                         </div>
@@ -584,20 +565,13 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Celem szkolenia będzie zdobycie kwalifikacji zawodowych przez UP.
-                                        Zasadność i konieczność zastosowania wsparcia będzie wynikać
-                                        z indywidualnej ścieżki wsparcia, w tym diagnozy potencjału,
-                                        predyspozycji oraz posiadanego już doświadczenia, czy kwalifikacji
-                                        Uczestnika/czki. Oferowane usługi zawodowe będą uwzględniały
-                                        również aktualną sytuację i potrzeby regionalnego rynku pracy. Dobór
-                                        w/w wsparcia będzie musiał wynikać z indywidualnej ścieżki wsparcia.
-                                        Przewidziano dostępność wsparcia dla 86% uczestników projektu, co
-                                        wynika z analizy potrzeb potencjalnych Uczestników/czek projektu.
+                                        Celem wsparcia będzie uzupełnienie wykształcenia OPT poprzez szkolenie/kurs
+                                        zawodowy pozwalający na uzupełnienie i/lub podniesienie kwalifikacji.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        1 usługa szkoleniowa na osobę, trwająca śr. 80 godz. dydaktycznych
-                                        (258 os.).
+                                        Dobór wsparcia i tematyka szkolenia/kursu będzie wynikała z indywidualnej
+                                        diagnozy i będzie wskazana w IŚW.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -606,8 +580,27 @@ export default function News() {
                                         VCC itp.).                        </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnicy/czki otrzymają stosowny certyfikat/zaświadczenie o
-                                        ukończeniu szkolenia.
+                                        Średnia liczba godzin kursu wyniesie 80 godzin szkoleniowych.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Każdy Uczestnik/Uczestniczka projektu będzie miał możliwość wzięcia udziału
+                                        w egzaminie zgodnym z rodzajem kształcenia.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Każdy Uczestnik będzie miał zapewniony catering podczas dnia szkoleniowego.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        W ramach wsparcia Uczestnik/Uczestniczka będzie mógł/mogła ubiegać się
+                                        o zwrot kosztów dojazdu zgodnie z zasadami określonymi w rozdziale VI i/lub
+                                        zwrot kosztów opieki nad dzieckiem/osobą zależną zgodnie z zasadami
+                                        określonymi w rozdziale VII.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Wsparciem zostanie objętych 258 osób.
                                     </li>
 
                                 </ul>
