@@ -34,7 +34,7 @@ export default async function BlogDetailsTemplate({ params }: { params: { slug: 
     const content = data.attributes.opis;
 
     const photoURL = data.attributes.zdjecie?.data?.attributes?.url;
-    const tekstPlikDoPobrania = data.attributes?.TekstPlikDoPobrania || '';
+    const tekstPlikDoPobrania = data.attributes?.TekstPlikiDoPobrania || '';
     const downloadURL = data.attributes.PlikDoPobrania?.data?.attributes?.url;
 
     console.log(tekstPlikDoPobrania)
