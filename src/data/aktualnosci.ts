@@ -1,0 +1,46 @@
+export type Aktualnosc = {
+  id: number;
+  kod: string;
+  tytul: string;
+  data: string;
+  opis: string;
+};
+
+export const aktualnosci: Aktualnosc[] = [
+  {
+    id: 1,
+    kod: 'IRŚ',
+    tytul:
+      'ROZEZNANIE RYNKU nr 1/2026/ROZ/MM/IND/IŚR dotyczące realizacja usługi doradczej: Opracowanie Indywidualnej ścieżki reintegracji, z uwzględnieniem diagnozy sytuacji problemowej, zasobów, potencjału, predyspozycji, potrzeb',
+    data: '2026-01-15',
+    opis:
+      'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi doradczej: Opracowanie Indywidualnej ścieżki reintegracji, z uwzględnieniem diagnozy sytuacji problemowej, zasobów, potencjału, predyspozycji, potrzeb; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+  },
+  {
+    id: 2,
+    kod: 'IPPS',
+    tytul:
+      'ROZEZNANIE RYNKU nr 2/2026/ROZ/MM/IND/IPPS dotyczące realizacja usługi poradnictwo specjalistyczne psychologiczne.',
+    data: '2026-01-16',
+    opis:
+      'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi poradnictwa specjalistycznego psychologicznego; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+  },
+  {
+    id: 3,
+    kod: 'IPW',
+    tytul:
+      'ROZEZNANIE RYNKU nr 3/2026/ROZ/MM/IND/IPW dotyczące realizacja usługi poradnictwo specjalistyczne prawne.',
+    data: '2026-01-17',
+    opis:
+      'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi poradnictwa specjalistycznego prawnego; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+  },
+  {
+    id: 4,
+    kod: 'IPP',
+    tytul:
+      'ROZEZNANIE RYNKU nr 4/2026/ROZ/MM/IND/IPP dotyczące realizacja usługi pośrednictwa pracy',
+    data: '2026-01-18',
+    opis:
+      'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi pośrednictwa pracy; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+  },
+];
