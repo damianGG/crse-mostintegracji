@@ -44,8 +44,8 @@ export default function BlogDetailsTemplate({ params }: { params: { slug: string
                     <div className="classic-view">
                       <article className="post">
                         <div className="post-content mb-5">
-                          {article.opis.split('\n\n').map((paragraph) => (
-                            <p className="mt-3 mb-3" key={paragraph}>
+                          {article.opis.split('\n\n').map((paragraph, index) => (
+                            <p className="mt-3 mb-3" key={index}>
                               {paragraph}
                             </p>
                           ))}
