@@ -51,11 +51,13 @@ export default function BlogDetailsTemplate({ params }: { params: { slug: string
                             </p>
                           ))}
                         </div>
-                        <div className="d-flex flex-column gap-3">
-                          {article.pliki.map((plik) => (
-                            <DownloadElement key={plik.url} title={plik.nazwa} link1={plik.url} />
-                          ))}
-                        </div>
+                        {article.pliki?.length ? (
+                          <div className="d-flex flex-column gap-3">
+                            {article.pliki.map((plik) => (
+                              <DownloadElement key={plik.url} title={plik.nazwa} link1={plik.url} />
+                            ))}
+                          </div>
+                        ) : null}
                       </article>
                     </div>
                   </div>

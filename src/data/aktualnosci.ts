@@ -5,7 +5,7 @@ export type Aktualnosc = {
   tytul: string;
   data: string;
   opis: string;
-  pliki: { nazwa: string; url: string }[];
+  pliki?: { nazwa: string; url: string }[];
 };
 
 export const aktualnosci: Aktualnosc[] = [
