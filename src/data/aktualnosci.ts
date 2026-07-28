@@ -5,6 +5,7 @@ export type Aktualnosc = {
   tytul: string;
   data: string;
   opis: string;
+  pliki: { nazwa: string; url: string }[];
 };
 
 export const aktualnosci: Aktualnosc[] = [
@@ -17,6 +18,16 @@ export const aktualnosci: Aktualnosc[] = [
     data: '2026-01-15',
     opis:
       'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi doradczej: Opracowanie Indywidualnej ścieżki reintegracji, z uwzględnieniem diagnozy sytuacji problemowej, zasobów, potencjału, predyspozycji, potrzeb; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+    pliki: [
+      {
+        nazwa: 'Zał. 1 - Formularz oferty IŚR.pdf',
+        url: 'https://github.com/user-attachments/files/30481457/Zal.1.-.Formularz.oferty.ISR.pdf',
+      },
+      {
+        nazwa: 'Rozeznanie rynku na IŚR.pdf',
+        url: 'https://github.com/user-attachments/files/30481466/Rozeznanie.rynku.na.ISR.pdf',
+      },
+    ],
   },
   {
     id: 2,
@@ -27,6 +38,16 @@ export const aktualnosci: Aktualnosc[] = [
     data: '2026-01-16',
     opis:
       'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi poradnictwa specjalistycznego psychologicznego; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+    pliki: [
+      {
+        nazwa: 'Zał. 1 - Formularz oferty IPPS.pdf',
+        url: 'https://github.com/user-attachments/files/30481463/Zal.1.-.Formularz.oferty.IPPS.pdf',
+      },
+      {
+        nazwa: 'Rozeznanie rynku na IPPS.pdf',
+        url: 'https://github.com/user-attachments/files/30481464/Rozeznanie.rynku.na.IPPS.pdf',
+      },
+    ],
   },
   {
     id: 3,
@@ -37,6 +58,16 @@ export const aktualnosci: Aktualnosc[] = [
     data: '2026-01-17',
     opis:
       'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi poradnictwa specjalistycznego prawnego; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+    pliki: [
+      {
+        nazwa: 'Zał. 1 - Formularz oferty IPW.pdf',
+        url: 'https://github.com/user-attachments/files/30481461/Zal.1.-.Formularz.oferty.IPW.pdf',
+      },
+      {
+        nazwa: 'Rozeznanie rynku na IPW.pdf',
+        url: 'https://github.com/user-attachments/files/30481462/Rozeznanie.rynku.na.IPW.pdf',
+      },
+    ],
   },
   {
     id: 4,
@@ -47,5 +78,15 @@ export const aktualnosci: Aktualnosc[] = [
     data: '2026-01-18',
     opis:
       'RÓG CONSULTING & BUSINESS TRAINING Sp. z o.o.; 35-011 Rzeszów, ul. Kazimierza Pułaskiego 9A zaprasza do złożenia oferty na realizację usługi pośrednictwa pracy; dla uczestników projektu „Moc Możliwości - Młodzi w Działaniu!” nr FELD.07.05-IP.01-0011/25.\n\nProjekt współfinansowany przez Unię Europejską oraz budżet państwa w ramach programu Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet 7. Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem, Działanie FELD.07.05 Integracja i społeczeństwo obywatelskie.',
+    pliki: [
+      {
+        nazwa: 'Zał. 1 - Formularz oferty IPP.pdf',
+        url: 'https://github.com/user-attachments/files/30481459/Zal.1.-.Formularz.oferty.IPP.pdf',
+      },
+      {
+        nazwa: 'Rozeznanie rynku na IPP.pdf',
+        url: 'https://github.com/user-attachments/files/30481460/Rozeznanie.rynku.na.IPP.pdf',
+      },
+    ],
   },
 ];

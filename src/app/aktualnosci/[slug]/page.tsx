@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { format } from 'date-fns';
 import { pl } from 'date-fns/locale';
 import { aktualnosci } from '@/data/aktualnosci';
+import DownloadElement from '@/components/reuseable/process-list/DownloadElement';
 import './style.css';
 
 export default function BlogDetailsTemplate({ params }: { params: { slug: string } }) {
@@ -48,6 +49,11 @@ export default function BlogDetailsTemplate({ params }: { params: { slug: string
                             <p className="mt-3 mb-3" key={index}>
                               {paragraph}
                             </p>
+                          ))}
+                        </div>
+                        <div className="d-flex flex-column gap-3">
+                          {article.pliki.map((plik) => (
+                            <DownloadElement key={plik.url} title={plik.nazwa} link1={plik.url} />
                           ))}
                         </div>
                       </article>
