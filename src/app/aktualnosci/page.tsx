@@ -85,7 +85,9 @@ export default async function News() {
                           <h2 className="post-title h3 mt-1 mb-3">{article.tytul}</h2>
                         </div>
                         <div className="post-content">
-                          <p>{article.kod}</p>
+                          <p>
+                            {article.kod} — {article.podtytul}
+                          </p>
                         </div>
                       </div>
                       <div className="card-footer">

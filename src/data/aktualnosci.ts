@@ -1,6 +1,7 @@
 export type Aktualnosc = {
   id: number;
   kod: string;
+  podtytul: string;
   tytul: string;
   data: string;
   opis: string;
@@ -10,6 +11,7 @@ export const aktualnosci: Aktualnosc[] = [
   {
     id: 1,
     kod: 'IRŚ',
+    podtytul: 'Opracowanie Indywidualnej Ścieżki Reintegracji',
     tytul:
       'ROZEZNANIE RYNKU nr 1/2026/ROZ/MM/IND/IŚR dotyczące realizacja usługi doradczej: Opracowanie Indywidualnej ścieżki reintegracji, z uwzględnieniem diagnozy sytuacji problemowej, zasobów, potencjału, predyspozycji, potrzeb',
     data: '2026-01-15',
@@ -19,6 +21,7 @@ export const aktualnosci: Aktualnosc[] = [
   {
     id: 2,
     kod: 'IPPS',
+    podtytul: 'Poradnictwo specjalistyczne psychologiczne',
     tytul:
       'ROZEZNANIE RYNKU nr 2/2026/ROZ/MM/IND/IPPS dotyczące realizacja usługi poradnictwo specjalistyczne psychologiczne.',
     data: '2026-01-16',
@@ -28,6 +31,7 @@ export const aktualnosci: Aktualnosc[] = [
   {
     id: 3,
     kod: 'IPW',
+    podtytul: 'Poradnictwo specjalistyczne prawne',
     tytul:
       'ROZEZNANIE RYNKU nr 3/2026/ROZ/MM/IND/IPW dotyczące realizacja usługi poradnictwo specjalistyczne prawne.',
     data: '2026-01-17',
@@ -37,6 +41,7 @@ export const aktualnosci: Aktualnosc[] = [
   {
     id: 4,
     kod: 'IPP',
+    podtytul: 'Pośrednictwo pracy',
     tytul:
       'ROZEZNANIE RYNKU nr 4/2026/ROZ/MM/IND/IPP dotyczące realizacja usługi pośrednictwa pracy',
     data: '2026-01-18',
