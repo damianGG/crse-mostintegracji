@@ -28,9 +28,9 @@ function createSlug(text: string): string {
 }
 
 export default async function News() {
-  const sortedData = [...aktualnosci].sort(
-    (a, b) => new Date(b.data).getTime() - new Date(a.data).getTime()
-  );
+  const sortedData = [...aktualnosci]
+    .filter((article) => article.id === 1)
+    .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
   return (
     <>
