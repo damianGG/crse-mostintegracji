@@ -1,13 +1,14 @@
 import { notFound } from 'next/navigation';
 import { format } from 'date-fns';
 import { pl } from 'date-fns/locale';
-import { aktualnosci } from '@/data/aktualnosci';
+import { getAktualnosci } from '@/api/api';
 import DownloadElement from '@/components/reuseable/process-list/DownloadElement';
 import './style.css';
 
-export default function BlogDetailsTemplate({ params }: { params: { slug: string } }) {
+export default async function BlogDetailsTemplate({ params }: { params: { slug: string } }) {
   const id = Number(params.slug.split('-')[0]);
-  const article = aktualnosci.find((item) => item.id === id);
+  const articles = await getAktualnosci();
+  const article = articles.find((item) => item.id === id);
 
   if (!article) {
     notFound();
