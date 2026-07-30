@@ -2,7 +2,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { format } from 'date-fns';
 import { pl } from 'date-fns/locale';
-import { aktualnosci } from '@/data/aktualnosci';
+import { getAktualnosci } from '@/api/api';
 import './style.css';
 
 export const metadata: Metadata = {
@@ -28,9 +28,7 @@ function createSlug(text: string): string {
 }
 
 export default async function News() {
-  const sortedData = [...aktualnosci]
-    .filter((article) => article.id === 1)
-    .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+  const sortedData = await getAktualnosci();
 
   return (
     <>
