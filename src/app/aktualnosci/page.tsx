@@ -8,25 +8,34 @@ import './style.css';
 const backendLink = process.env.STRAPI_PUBLIC_BACKEND_LINK;
 
 async function getStrapiData() {
+    const pageSize = 100;
+    const all: any[] = [];
     try {
-        // Dodajemy parametr pagination[pageSize]=100, żeby pobrać wszystkie wpisy
-        const response = await fetch(`${backendLink}/api/most-integracji-aktualnoscis?sort=id:desc&pagination[pageSize]=100`,
-            {
-                cache: 'no-store',
-                method: 'GET',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${process.env.BEARER_TOKEN}`
-                },
+        let page = 1;
+        let pageCount = 1;
+        do {
+            const response = await fetch(`${backendLink}/api/most-integracji-aktualnoscis?sort=id:desc&pagination[page]=${page}&pagination[pageSize]=${pageSize}`,
+                {
+                    cache: 'no-store',
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${process.env.BEARER_TOKEN}`
+                    },
+                }
+            );
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
             }
-        );
-        if (!response.ok) {
-            throw new Error('Network response was not ok');
-        }
-        return await response.json();
+            const json = await response.json();
+            all.push(...(json.data ?? []));
+            pageCount = json.meta?.pagination?.pageCount ?? 1;
+            page++;
+        } while (page <= pageCount);
+        return { data: all };
     } catch (error) {
         console.error('Failed to fetch data:', error);
-        return { data: [] }; // Zwracamy pustą tablicę w przypadku błędu
+        return { data: all }; // Zwracamy to, co udało się pobrać
     }
 }
 
